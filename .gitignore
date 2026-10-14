@@ -4,3 +4,5 @@
 node_modules
 uploads/
 generated/
+frontend/dist/
+frontend/node_modules/
